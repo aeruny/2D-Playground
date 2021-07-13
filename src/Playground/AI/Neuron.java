@@ -20,7 +20,6 @@ public class Neuron {
 
     }
     public Neuron(double input){
-
         this.output = input;
     }
 
